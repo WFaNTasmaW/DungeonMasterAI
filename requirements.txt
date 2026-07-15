@@ -1,0 +1,17 @@
+streamlit
+groq
+pydantic
+python-dotenv
+
+chromadb
+sentence-transformers
+transformers
+torch
+
+numpy
+pandas
+
+requests
+tqdm
+
+Pillow
